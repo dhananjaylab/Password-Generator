@@ -1,0 +1,6 @@
+## Streamlit config
+## This file should only contain Streamlit config keys and sections.
+## Do not store API keys here. Move them to `.streamlit/secrets.toml` or environment variables.
+
+[theme]
+base = "dark"
