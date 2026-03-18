@@ -1,0 +1,5 @@
+{
+  "name": "Password & Passphrase Generator",
+  "description": "A full-stack application to generate secure passwords and passphrases using a FastAPI backend and React frontend.",
+  "requestFramePermissions": []
+}
